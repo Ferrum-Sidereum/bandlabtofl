@@ -1,0 +1,6 @@
+# build output
+build/
+vendor/JUCE/
+__pycache__/
+*.pyc
+dev/fixtures/
